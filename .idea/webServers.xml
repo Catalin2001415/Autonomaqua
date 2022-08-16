@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="133c6123-22f4-48b3-b2c7-f6326f963ace" name="Dev" url="http://autonomaqua.ruso.agency">
+        <fileTransfer rootFolder="/public_html" host="autonomaqua.ruso.agency" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

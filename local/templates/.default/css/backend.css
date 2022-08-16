@@ -1,0 +1,7 @@
+/*#panel{*/
+/*    position: relative;*/
+/*    z-index: 1234567;*/
+/*}*/
+.load-more{
+    display: none !important;
+}
